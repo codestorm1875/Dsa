@@ -2,8 +2,6 @@
 # Time Complexity: O(n^2)
 # Space Complexity: O(1)
 
-from typing import List
-
 class Solution:
     def rotate(self, matrix: List[List[int]]) -> None:
         """
